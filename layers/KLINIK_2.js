@@ -1,0 +1,27 @@
+var json_KLINIK_2 = {
+"type": "FeatureCollection",
+"name": "KLINIK_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NO": "1", "Y": -6.382286, "X": 106.814469, "NAMA": "Klinik Adelina", "ALAMAT": "Jl. Raya Tanah Baru, Tanah Baru, Beji, Depok." }, "geometry": { "type": "Point", "coordinates": [ 106.814469, -6.382286 ] } },
+{ "type": "Feature", "properties": { "NO": "3", "Y": -6.373852, "X": 106.832143, "NAMA": "Klinik Bima Sakti", "ALAMAT": "Jl. Nusantara Raya No. 26, Beji, Depok." }, "geometry": { "type": "Point", "coordinates": [ 106.832143, -6.373852 ] } },
+{ "type": "Feature", "properties": { "NO": "4", "Y": -6.364245, "X": 106.834053, "NAMA": "Klinik Bunda", "ALAMAT": "Jl. Margonda Raya No.28, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat�" }, "geometry": { "type": "Point", "coordinates": [ 106.834053, -6.364245 ] } },
+{ "type": "Feature", "properties": { "NO": "5", "Y": -6.371941, "X": 106.83261, "NAMA": "Klinik Centra Derma", "ALAMAT": "JL. Margonda Raya, 339 RT 001\/08, Depok, 16424, Kemiri Muka, Beji, Depok City" }, "geometry": { "type": "Point", "coordinates": [ 106.83261, -6.371941 ] } },
+{ "type": "Feature", "properties": { "NO": "6", "Y": -6.384156, "X": 106.814469, "NAMA": "Klinik Citra Ansana Medika", "ALAMAT": "Jl. Nusantara Raya No.170, Beji, Depok." }, "geometry": { "type": "Point", "coordinates": [ 106.814469, -6.384156 ] } },
+{ "type": "Feature", "properties": { "NO": "7", "Y": -6.377344, "X": 106.833172, "NAMA": "Klinik Dawa", "ALAMAT": "Jl. Ir. H. Juanda, Kemiri Muka, Beji, Depok." }, "geometry": { "type": "Point", "coordinates": [ 106.833172, -6.377344 ] } },
+{ "type": "Feature", "properties": { "NO": "8", "Y": -6.370344, "X": 106.831921, "NAMA": "Klinik Dental Margonda", "ALAMAT": "Jl. Margonda Raya No.358, Beji, Kota Depok, Jawa Barat - Beji, Depok, Jawa Barat," }, "geometry": { "type": "Point", "coordinates": [ 106.831921, -6.370344 ] } },
+{ "type": "Feature", "properties": { "NO": "9", "Y": -6.369244, "X": 106.813227, "NAMA": "Klinik Graha Permata ibu", "ALAMAT": "�Jl. K.H.M. Usman, Kukusan, Kecamatan Beji, Kota Depok, Jawa Barat" }, "geometry": { "type": "Point", "coordinates": [ 106.813227, -6.369244 ] } },
+{ "type": "Feature", "properties": { "NO": "10", "Y": -6.381963, "X": 106.814339, "NAMA": "Klinik Kurnia Asih", "ALAMAT": "Jl. Nusantara Raya No.82, Beji, Depok." }, "geometry": { "type": "Point", "coordinates": [ 106.814339, -6.381963 ] } },
+{ "type": "Feature", "properties": { "NO": "11", "Y": -6.361159, "X": 106.822783, "NAMA": "Klinik Makara ui", "ALAMAT": "Jalan, Lingkar Utara, Kukusan, Beji, Depok City, West Java 16425" }, "geometry": { "type": "Point", "coordinates": [ 106.822783, -6.361159 ] } },
+{ "type": "Feature", "properties": { "NO": "12", "Y": -6.361231, "X": 106.833764, "NAMA": "Klinik gigi Nirmala", "ALAMAT": "Jl. Margonda Raya No.492 A, Pondok Cina, Depok." }, "geometry": { "type": "Point", "coordinates": [ 106.833764, -6.361231 ] } },
+{ "type": "Feature", "properties": { "NO": "13", "Y": -6.379033, "X": 106.813625, "NAMA": "Klinik Physio Station", "ALAMAT": "Jl. H. Asmawi No. 96 - Beji, Depok, Jawa Barat, Indonesia" }, "geometry": { "type": "Point", "coordinates": [ 106.813625, -6.379033 ] } },
+{ "type": "Feature", "properties": { "NO": "14", "Y": -6.382644, "X": 106.830246, "NAMA": "Klinik Raditya Medical�", "ALAMAT": "Kav. 9, Ruko Pesona Khayangan, Jalan Margonda Raya No.45, Kemiri Muka, Beji, Kemiri Muka, Kecamatan Beji, Kota Depok," }, "geometry": { "type": "Point", "coordinates": [ 106.830246, -6.382644 ] } },
+{ "type": "Feature", "properties": { "NO": "15", "Y": -6.382813, "X": 106.821503, "NAMA": "Klinik Siti", "ALAMAT": "Jl. Karet Hijau No.1, Beji Timur, Depok." }, "geometry": { "type": "Point", "coordinates": [ 106.821503, -6.382813 ] } },
+{ "type": "Feature", "properties": { "NO": "16", "Y": -6.387797, "X": 106.813127, "NAMA": "Klinik Spesialis Aria", "ALAMAT": "Jl. Tales No. 94 RT. 003 RW. 10 Beji Depok Jawa Barat, Kukusan, Kecamatan Beji, Kota Depok, Jawa Barat" }, "geometry": { "type": "Point", "coordinates": [ 106.813127, -6.387797 ] } },
+{ "type": "Feature", "properties": { "NO": "17", "Y": -6.36517, "X": 106.810234, "NAMA": "Klinik Tamara C Skin", "ALAMAT": "Jl. Jambe No.111 Depok Utara, Beji, Depok" }, "geometry": { "type": "Point", "coordinates": [ 106.810234, -6.36517 ] } },
+{ "type": "Feature", "properties": { "NO": "18", "Y": -6.382689, "X": 106.816491, "NAMA": "Klinik Wijaya kusuma", "ALAMAT": "Jl. Rw. Maya 1 No.1, Beji, Kecamatan Beji, Kota Depok, Jawa Barat�" }, "geometry": { "type": "Point", "coordinates": [ 106.816491, -6.382689 ] } },
+{ "type": "Feature", "properties": { "NO": "19", "Y": -6.360164, "X": 106.832913, "NAMA": "Klinik Wijaya Skin Care", "ALAMAT": "Jl. Margonda Raya No.469A, Pondok Cina, Depok" }, "geometry": { "type": "Point", "coordinates": [ 106.832913, -6.360164 ] } },
+{ "type": "Feature", "properties": { "NO": "20", "Y": -6.372339, "X": 106.831655, "NAMA": "Klinik Depok", "ALAMAT": "Jl. Margonda Raya, Blok A\/1, Komplek Pesona Depok Estate, Depok, 16431" }, "geometry": { "type": "Point", "coordinates": [ 106.831655, -6.372339 ] } },
+{ "type": "Feature", "properties": { "NO": "21", "Y": -6.379497, "X": 106.824238, "NAMA": "Klinik Insan Cita", "ALAMAT": "Jl. Nusa Indah 1, RT 3\/RW , Beji Timur, Kecamatan Beji, Depok, Jawa Barat" }, "geometry": { "type": "Point", "coordinates": [ 106.824238, -6.379497 ] } }
+]
+}
